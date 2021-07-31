@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,D,T,A,E,U,Y,F,L,Z={
-b2L:function(){var x=null
+b2K:function(){var x=null
 return new Z.qe(x,x,x,x)},
 qe:function qe(d,e,f,g){var _=this
 _.jv$=d
@@ -40,7 +40,7 @@ D:function(d,e){var x,w,v,u,t,s,r=null
 L.cf(e,C.a6,y.a).toString
 x=L.aK(T.cG("Contact Me",r,"contact_me",H.a([],y.h),r),r,r,r,A.b2(r,r,r,r,r,r,r,r,r,r,r,50,r,C.dI,r,r,!0,r,r,r,r,r,r,r),r,r)
 w=Z.uQ(5)
-v=F.aRh(new Z.aae(),A.b2(r,r,r,r,r,r,r,r,r,r,r,30,r,C.dI,r,r,!0,r,r,r,r,r,r,r),"Email: admin@cullen.ml\nWeChat ID: cullen_insights",C.a1)
+v=F.aRg(new Z.aae(),A.b2(r,r,r,r,r,r,r,r,r,r,r,30,r,C.dI,r,r,!0,r,r,r,r,r,r,r),"Email: admin@cullen.ml\nWeChat ID: cullen_insights",C.a1)
 u=$.lg
 t=u==null
 s=t?C.b_:u
@@ -73,4 +73,4 @@ x(Z.ZK,Q.cu)})()
 H.ff(b.typeUniverse,JSON.parse('{"qe":{"a4":[],"cu":[],"f":[]}}'))
 0
 var y={h:H.J("l<w>"),e:H.J("l<f>"),a:H.J("hf"),f:H.J("~")};(function constants(){C.Dv=new V.at(10,80,10,30)})()}
-$__dart_deferred_initializers__["5TryrkSYI2H4zFcJc5MBxFyKNqc="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["yLTqIKbYKoqNOgoqr9bD0MWhvhk="] = $__dart_deferred_initializers__.current
