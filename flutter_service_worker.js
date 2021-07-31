@@ -43,7 +43,7 @@ const RESOURCES = {
 "main.dart.js_14.part.js": "129db60beae0d7e95ff33834aa33859f",
 "CC%20BY-NC-SA%204.0.xmp": "3d6ab842c52308e773b120ed67cba69a",
 "main.dart.js_4.part.js": "6e5ab0f6f65adbddc8b238c46ce0fe81",
-"main.dart.js": "419a2f8ad8ecba0acaa79aff2cc4ffb5",
+"main.dart.js": "ffd0c6ca61d7c8652b04b1ba7dfe2209",
 "main.dart.js_15.part.js": "54ae027105969701d49dd80cb230c9b6",
 "logo.png": "e1a3f8aad4aecded2a4e1f902a60aa6b",
 "main.dart.js_9.part.js": "2242f1035b6b923735deea288669156d",
@@ -53,8 +53,8 @@ const RESOURCES = {
 "main.dart.js_5.part.js": "a2795798b554b350115e13e8162e44e9",
 "cookie-policy.html": "68e478f12cd82be5a36fc3a055f81fe1",
 "disclaimer.html": "13ff616f97e691873cf3a7b3143bcea1",
-"index.html": "f96cde6288bbf950cc6455c6b348224b",
-"/": "f96cde6288bbf950cc6455c6b348224b"
+"index.html": "210b6ab93e857f10aa01fc62e9bdb5a6",
+"/": "210b6ab93e857f10aa01fc62e9bdb5a6"
 };
 
 // The application shell files that are downloaded before a service worker can
