@@ -31,7 +31,7 @@ const RESOURCES = {
 "main.dart.js_18.part.js": "2a141b2420e2619cc3f6f634bb895a0e",
 "main.dart.js_12.part.js": "c37c820481f1217ecf6739ef6b4e29df",
 "main.dart.js_21.part.js": "759c7c9af34936be7e48b223bcaadb91",
-"CNAME": "54722b15e8f97c20a1fb1bb6306ca1b8",
+"CNAME": "f27785cec472aa864c01f4a953cad7fe",
 "LICENSE": "fb5d051e53001fdff7fec0f368f47190",
 "main.dart.js_17.part.js": "e8395be7fb43f819519d28b4f7f61746",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -53,8 +53,8 @@ const RESOURCES = {
 "main.dart.js_5.part.js": "e94f4740c66a66b8c8b76177ccf91cb1",
 "cookie-policy.html": "68e478f12cd82be5a36fc3a055f81fe1",
 "disclaimer.html": "13ff616f97e691873cf3a7b3143bcea1",
-"index.html": "ba0b4c650322872478f4b1674d13689a",
-"/": "ba0b4c650322872478f4b1674d13689a"
+"index.html": "2e2c12537ea741ff80bbcc95a47fc135",
+"/": "2e2c12537ea741ff80bbcc95a47fc135"
 };
 
 // The application shell files that are downloaded before a service worker can
