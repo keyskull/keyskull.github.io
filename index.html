@@ -28,6 +28,8 @@
 
     <title>Jialin Li's Portfolio</title>
     <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="background.css">
+
     <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-analytics.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-auth.js"></script>
@@ -58,16 +60,29 @@
       document.addEventListener('contextmenu', event => event.preventDefault());
 
 
+
     </script>
 </head>
 <body style="background-color:#404040;">
 <!-- This script installs service_worker.js to provide PWA functionality to
      application. For more information, see:
      https://developers.google.com/web/fundamentals/primers/service-workers -->
+
+<!--background-->
+<div class="bg"></div>
+<div class="bg bg2"></div>
+<div class="bg bg3"></div>
+
+<div style="
+position: absolute;top: 50%;left: 50%; transform: translate(-50%, -50%);">
+    <div class="lds-dual-ring"></div>
+</div>
+<!--background-->
+
 <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=2388612770');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=3073685197');
       });
     }
 
@@ -91,6 +106,7 @@
     document.getElementsByTagName('head')[0].appendChild(script);
     }
     loadJS('main.dart.js?v='+ Date.now());
+
 </script>
 <!--<script src="main.dart.js?v=1.0.0+7" type="application/javascript"></script>-->
 </body>
