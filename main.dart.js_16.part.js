@@ -1,8 +1,8 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K={
-aNZ(){var x=null
-return new K.nV(U.aEw(x,x,x,x,x,!1,x,x,x,x,C.mS,x,x,x,x,x,x,x,x),N.lL(x,x,x),x)},
-nV:function nV(d,e,f){this.e=d
+aNY(){var x=null
+return new K.nU(U.aEv(x,x,x,x,x,!1,x,x,x,x,C.mS,x,x,x,x,x,x,x,x),N.lK(x,x,x),x)},
+nU:function nU(d,e,f){this.e=d
 this.c=e
 this.a=f},
 a_V:function a_V(){},
@@ -34,17 +34,17 @@ W=c[21]
 X=c[22]
 Y=c[23]
 Z=c[24]
-K.nV.prototype={
+K.nU.prototype={
 H(d,e){var x,w,v,u,t=null,s=y.a
-L.c3(e,C.a_,s).toString
+L.c3(e,C.Z,s).toString
 x=y.h
-w=L.bT(T.cl("About",t,"about",H.a([],x),t),t,C.ER,t,t)
-L.c3(e,C.a_,s).toString
-v=L.bT(T.cl("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passionate about life-long learning and sharing knowledge with my understanding.\nExperienced in Back-end engineer and Full-stack developer position; bestowed Bachelor's degree in Computer Science; studying the Data Science program, and working on some projects related. I am looking for new opportunities to contribute my service systems development and design experiences as a software engineer with my passion and seeking a good approach to leverage my skill in Data Science.\n\nFeel free to chat with me about anything you're interested in.\n\nYou can contact me via the contact button.\n",t,"header_description",H.a([],x),t),t,C.ES,t,t)
+w=L.bU(T.cl("About",t,"about",H.a([],x),t),t,C.ER,t,t)
+L.c3(e,C.Z,s).toString
+v=L.bU(T.cl("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passionate about life-long learning and sharing knowledge with my understanding.\nExperienced in Back-end engineer and Full-stack developer position; bestowed Bachelor's degree in Computer Science; studying the Data Science program, and working on some projects related. I am looking for new opportunities to contribute my service systems development and design experiences as a software engineer with my passion and seeking a good approach to leverage my skill in Data Science.\n\nFeel free to chat with me about anything you're interested in.\n\nYou can contact me via the contact button.\n",t,"header_description",H.a([],x),t),t,C.ES,t,t)
 u=this.e
-L.c3(e,C.a_,s).toString
+L.c3(e,C.Z,s).toString
 s=y.e
-return new T.bU(C.Lz,T.dq(H.a([w,C.mI,v,T.kf(H.a([U.eT(L.bT(T.cl("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aL,t),new K.a_V(),u),U.eT(C.a6J,new K.a_W(),u),U.eT(C.a6C,new K.a_X(),u)],s),C.aa,C.a7,C.a8,t)],s),C.bu,C.a7,C.a8),t)},
+return new T.bS(C.Lz,T.dq(H.a([w,C.mI,v,T.kf(H.a([U.eT(L.bU(T.cl("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aL,t),new K.a_V(),u),U.eT(C.a6K,new K.a_W(),u),U.eT(C.a6D,new K.a_X(),u)],s),C.a9,C.a6,C.a7,t)],s),C.bu,C.a6,C.a7),t)},
 iC(){return!0}}
 var z=a.updateTypes([])
 K.a_V.prototype={
@@ -56,10 +56,10 @@ $S:0}
 K.a_X.prototype={
 $0(){D.cP("cookie-policy")},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(K.nV,N.bF)
+x(K.nU,N.bF)
 w(H.eE,[K.a_V,K.a_W,K.a_X])})()
-H.dx(b.typeUniverse,JSON.parse('{"nV":{"bF":[],"U":[],"h":[]}}'))
+H.dx(b.typeUniverse,JSON.parse('{"nU":{"bF":[],"U":[],"h":[]}}'))
 var y={h:H.C("p<v>"),e:H.C("p<h>"),a:H.C("fh")};(function constants(){C.Lz=new V.aR(10,30,10,30)
-C.a6C=new L.dH("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
-C.a6J=new L.dH("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["uwVXNL+l0HfydL1R1P6VgqGwFEM="] = $__dart_deferred_initializers__.current
+C.a6D=new L.dH("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.a6K=new L.dH("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["8o3YvPnpEhjHfE6Dj3g+eCnhiDE="] = $__dart_deferred_initializers__.current
