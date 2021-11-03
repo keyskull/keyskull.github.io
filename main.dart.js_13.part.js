@@ -1,6 +1,6 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K,L,M,N={
-aSE(){return new N.pO(F.cx(new Z.cR("Projects")),B.ks(null,null),null)},
+aSC(){return new N.pO(F.cy(new Z.cR("Projects")),B.ks(null,null),null)},
 pO:function pO(d,e,f){this.f=d
 this.c=e
 this.a=f}},O,P,Q,R,S,T,U,V,W,X,Y,Z
@@ -31,8 +31,8 @@ X=c[22]
 Y=c[23]
 Z=c[24]
 N.pO.prototype={
-G(d,e){return X.aEN()}}
+G(d,e){return X.aEL()}}
 var z=a.updateTypes([]);(function inheritance(){var y=a.inherit
 y(N.pO,B.bU)})()
 H.dr(b.typeUniverse,JSON.parse('{"pO":{"bU":[],"T":[],"h":[]}}'))}
-$__dart_deferred_initializers__["iSnnrB7DLeDJiZ1nbX3c7SFVx5c="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["14c6ZvvWw48mgpB0e1QSWUjZIPY="] = $__dart_deferred_initializers__.current

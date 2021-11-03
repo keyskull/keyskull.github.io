@@ -1,8 +1,8 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
 $__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K={
-aP7(){var x=null
-return new K.nX(U.aFA(x,x,x,x,x,!1,x,x,x,x,C.mW,x,x,x,x,x,x,x,x),B.ks(x,x),x)},
-nX:function nX(d,e,f){this.f=d
+aP5(){var x=null
+return new K.nW(U.aFy(x,x,x,x,x,!1,x,x,x,x,C.mW,x,x,x,x,x,x,x,x),B.ks(x,x),x)},
+nW:function nW(d,e,f){this.f=d
 this.c=e
 this.a=f},
 a0g:function a0g(){},
@@ -34,7 +34,7 @@ W=c[21]
 X=c[22]
 Y=c[23]
 Z=c[24]
-K.nX.prototype={
+K.nW.prototype={
 G(d,e){var x,w,v,u,t=null,s=y.a
 L.c4(e,C.a_,s).toString
 x=y.h
@@ -44,21 +44,21 @@ v=L.bH(T.cl("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passi
 u=this.f
 L.c4(e,C.a_,s).toString
 s=y.e
-return new T.bT(C.LD,T.cQ(H.a([w,C.mL,v,T.kf(H.a([U.fn(L.bH(T.cl("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aC,t),new K.a0g(),u),U.fn(C.a6O,new K.a0h(),u),U.fn(C.a6H,new K.a0i(),u)],s),C.a5,C.Z,C.a0,t)],s),C.b8,C.Z,C.a0),t)}}
+return new T.bT(C.LD,T.cQ(H.a([w,C.mL,v,T.kf(H.a([U.fn(L.bH(T.cl("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aC,t),new K.a0g(),u),U.fn(C.a6P,new K.a0h(),u),U.fn(C.a6I,new K.a0i(),u)],s),C.a5,C.Z,C.a0,t)],s),C.b8,C.Z,C.a0),t)}}
 var z=a.updateTypes([])
 K.a0g.prototype={
-$0(){return D.cM("contact")},
+$0(){return D.cN("contact")},
 $S:0}
 K.a0h.prototype={
-$0(){D.cM("disclaimer")},
+$0(){D.cN("disclaimer")},
 $S:0}
 K.a0i.prototype={
-$0(){D.cM("cookie-policy")},
+$0(){D.cN("cookie-policy")},
 $S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(K.nX,B.bU)
+x(K.nW,B.bU)
 w(H.f4,[K.a0g,K.a0h,K.a0i])})()
-H.dr(b.typeUniverse,JSON.parse('{"nX":{"bU":[],"T":[],"h":[]}}'))
-var y={h:H.B("p<v>"),e:H.B("p<h>"),a:H.B("fh")};(function constants(){C.LD=new V.aM(10,30,10,30)
-C.a6H=new L.dM("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
-C.a6O=new L.dM("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["X7SDWMZmER7SqNpqRzFcyuwHKtk="] = $__dart_deferred_initializers__.current
+H.dr(b.typeUniverse,JSON.parse('{"nW":{"bU":[],"T":[],"h":[]}}'))
+var y={h:H.C("p<v>"),e:H.C("p<h>"),a:H.C("fh")};(function constants(){C.LD=new V.aM(10,30,10,30)
+C.a6I=new L.dM("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.a6P=new L.dM("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
+$__dart_deferred_initializers__["n6Ud5VzLRHeX8kJ6aDer3DmTnBY="] = $__dart_deferred_initializers__.current
