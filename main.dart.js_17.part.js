@@ -1,64 +1,77 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,B,C,D,E,F,G,H,J,K={
-aP5(){var x=null
-return new K.nW(U.aFy(x,x,x,x,x,!1,x,x,x,x,C.mW,x,x,x,x,x,x,x,x),B.ks(x,x),x)},
-nW:function nW(d,e,f){this.f=d
-this.c=e
-this.a=f},
-a0g:function a0g(){},
-a0h:function a0h(){},
-a0i:function a0i(){}},L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
-a.setFunctionNamesIfNecessary([K])
+$__dart_deferred_initializers__.current=function(a,b,c,$){var B={
+fT(d,e,f){var x=null
+return new B.TS(e,x,x,x,f,C.l,x,!1,d,x)},
+aK4(d,e,f,g,h,i,j,k,l,m,a0,a1,a2,a3,a4,a5,a6,a7){var x,w,v,u,t,s,r,q,p=null,o=m==null&&a1==null?p:new B.a_p(a1,m),n=a1==null?p:new B.a_r(a1)
+if(j==null&&g==null)x=p
+else{j.toString
+g.toString
+x=new B.a_q(j,g)}w=a6==null?p:new A.cJ(a6,y.o)
+v=f==null?p:new A.cJ(f,y.n)
+u=a2==null?p:new A.cJ(a2,y.n)
+t=h==null?p:new A.cJ(h,y.c)
+s=l==null?p:new A.cJ(l,y.b)
+r=k==null?p:new A.cJ(k,y.b)
+q=a3==null?p:new A.cJ(a3,y.z)
+return A.aBu(d,e,v,t,i,p,o,r,s,x,n,new A.cJ(a0,y.h),u,q,p,a4,p,a5,w,a7)},
+b1r(d){var x=A.fj(d)
+x=x==null?null:x.c
+return A.aGY(C.bo,C.cZ,C.iw,x==null?1:x)},
+TS:function TS(d,e,f,g,h,i,j,k,l,m){var _=this
+_.c=d
+_.d=e
+_.e=f
+_.f=g
+_.r=h
+_.w=i
+_.x=j
+_.y=k
+_.z=l
+_.a=m},
+a_p:function a_p(d,e){this.a=d
+this.b=e},
+a_r:function a_r(d){this.a=d},
+a_q:function a_q(d,e){this.a=d
+this.b=e},
+a10:function a10(){}},A,C
+B=a.updateHolder(c[26],B)
 A=c[0]
-B=c[1]
 C=c[2]
-D=c[3]
-E=c[4]
-F=c[5]
-G=c[6]
-H=c[7]
-J=c[8]
-K=a.updateHolder(c[9],K)
-L=c[10]
-M=c[11]
-N=c[12]
-O=c[13]
-P=c[14]
-Q=c[15]
-R=c[16]
-S=c[17]
-T=c[18]
-U=c[19]
-V=c[20]
-W=c[21]
-X=c[22]
-Y=c[23]
-Z=c[24]
-K.nW.prototype={
-G(d,e){var x,w,v,u,t=null,s=y.a
-L.c4(e,C.a_,s).toString
-x=y.h
-w=L.bH(T.cl("About",t,"about",H.a([],x),t),t,C.ES,t,t)
-L.c4(e,C.a_,s).toString
-v=L.bH(T.cl("Welcome to Jialin's Portfolio.\n\nI'm Jialin Li, a person who passionate about life-long learning and sharing knowledge with my understanding.\nExperienced in Back-end engineer and Full-stack developer position; bestowed Bachelor's degree in Computer Science; studying the Data Science program, and working on some projects related. I am looking for new opportunities to contribute my service systems development and design experiences as a software engineer with my passion and seeking a good approach to leverage my skill in Data Science.\n\nFeel free to chat with me about anything you're interested in.\n\nYou can contact me via the contact button.\n",t,"header_description",H.a([],x),t),t,C.ET,t,t)
-u=this.f
-L.c4(e,C.a_,s).toString
-s=y.e
-return new T.bT(C.LD,T.cQ(H.a([w,C.mL,v,T.kf(H.a([U.fn(L.bH(T.cl("Contact Me",t,"contact_me",H.a([],x),t),t,t,C.aC,t),new K.a0g(),u),U.fn(C.a6P,new K.a0h(),u),U.fn(C.a6I,new K.a0i(),u)],s),C.a5,C.Z,C.a0,t)],s),C.b8,C.Z,C.a0),t)}}
-var z=a.updateTypes([])
-K.a0g.prototype={
-$0(){return D.cN("contact")},
-$S:0}
-K.a0h.prototype={
-$0(){D.cN("disclaimer")},
-$S:0}
-K.a0i.prototype={
-$0(){D.cN("cookie-policy")},
-$S:0};(function inheritance(){var x=a.inherit,w=a.inheritMany
-x(K.nW,B.bU)
-w(H.f4,[K.a0g,K.a0h,K.a0i])})()
-H.dr(b.typeUniverse,JSON.parse('{"nW":{"bU":[],"T":[],"h":[]}}'))
-var y={h:H.C("p<v>"),e:H.C("p<h>"),a:H.C("fh")};(function constants(){C.LD=new V.aM(10,30,10,30)
-C.a6I=new L.dM("Cookie Policy",null,null,null,null,null,null,null,null,null,null,null,null,null)
-C.a6P=new L.dM("Disclaimer",null,null,null,null,null,null,null,null,null,null,null,null,null)})()}
-$__dart_deferred_initializers__["n6Ud5VzLRHeX8kJ6aDer3DmTnBY="] = $__dart_deferred_initializers__.current
+B.TS.prototype={
+O9(d){var x,w=A.a5(d),v=w.as
+A.a5(d)
+x=B.aK4(C.V,C.U,C.X,C.cM,0,!0,C.cc,C.D_,C.CZ,v.db,B.b1r(d),v.b,w.cx,C.dy,C.od,w.f,w.R8.as,w.z)
+return x},
+Rn(d){var x
+d.X(y.k)
+x=A.a5(d)
+return x.fh.a}}
+B.a_p.prototype={
+R(d){var x
+if(d.u(0,C.af)){x=this.b
+if(x==null)x=null
+else{x=x.a
+x=A.ap(97,x>>>16&255,x>>>8&255,x&255)}return x}return this.a},
+j(d){var x=this.b
+if(x==null)x=null
+else{x=x.a
+x=A.ap(97,x>>>16&255,x>>>8&255,x&255)}return"{disabled: "+A.d(x)+", otherwise: "+A.d(this.a)+"}"}}
+B.a_r.prototype={
+R(d){var x
+if(d.u(0,C.b2)){x=this.a
+return A.ap(10,x.gp(x)>>>16&255,x.gp(x)>>>8&255,x.gp(x)&255)}if(d.u(0,C.bJ)||d.u(0,C.aO)){x=this.a
+return A.ap(31,x.gp(x)>>>16&255,x.gp(x)>>>8&255,x.gp(x)&255)}return null},
+j(d){var x=this.a
+return"{hovered: "+A.ap(10,x.gp(x)>>>16&255,x.gp(x)>>>8&255,x.gp(x)&255).j(0)+", focused,pressed: "+A.ap(31,x.gp(x)>>>16&255,x.gp(x)>>>8&255,x.gp(x)&255).j(0)+", otherwise: null}"}}
+B.a_q.prototype={
+R(d){if(d.u(0,C.af))return this.b
+return this.a}}
+B.a10.prototype={}
+var z=a.updateTypes([]);(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
+w(B.TS,A.tj)
+v(A.aY,[B.a_p,B.a_r,B.a10])
+w(B.a_q,B.a10)
+x(B.a10,A.ar)})()
+A.dt(b.typeUniverse,JSON.parse('{"TS":{"X":[],"i":[]},"a_p":{"aY":["A?"]},"a_r":{"aY":["A?"]},"a_q":{"aY":["dA"]},"aZ3":{"b9":[],"aW":[],"i":[]}}'))
+var y={k:A.E("aZ3"),n:A.E("cJ<A>"),h:A.E("cJ<cx>"),z:A.E("cJ<eU>"),b:A.E("cJ<V>"),o:A.E("cJ<v>"),c:A.E("cJ<Y>")}}
+$__dart_deferred_initializers__["Io71FUit+qr16Z3dnI9oTn06vec="] = $__dart_deferred_initializers__.current
